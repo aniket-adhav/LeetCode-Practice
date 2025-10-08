@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Counting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 ## Geometry
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
