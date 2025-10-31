@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Counting
