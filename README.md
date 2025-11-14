@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
