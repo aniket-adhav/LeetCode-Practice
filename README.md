@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 ## Math
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0031-next-permutation) |
+| [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
