@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
