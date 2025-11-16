@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 ## Math
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
