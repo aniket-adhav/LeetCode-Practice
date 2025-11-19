@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
