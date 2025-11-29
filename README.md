@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
