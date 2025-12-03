@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Recursion
 |  |
 | ------- |
@@ -224,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Quickselect
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
