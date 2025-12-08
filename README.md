@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
