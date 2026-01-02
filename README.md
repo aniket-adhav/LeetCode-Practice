@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
