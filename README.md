@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
