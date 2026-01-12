@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1053-previous-permutation-with-one-swap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1089-duplicate-zeros](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
+| [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 ## Simulation
 |  |
 | ------- |
