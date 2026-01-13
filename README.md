@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 ## Binary Tree
 |  |
 | ------- |
