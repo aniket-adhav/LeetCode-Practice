@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Sliding Window
