@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1089-duplicate-zeros](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
