@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-water-bottles-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Simulation
 |  |
 | ------- |
