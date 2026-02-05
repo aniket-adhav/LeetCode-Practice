@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
+| [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
