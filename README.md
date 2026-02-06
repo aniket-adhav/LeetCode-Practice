@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
