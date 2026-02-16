@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
