@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0855-exam-room](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0855-exam-room) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
