@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1405-longest-happy-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1405-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0855-exam-room](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0855-exam-room) |
+| [1405-longest-happy-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1405-longest-happy-string) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1405-longest-happy-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1405-longest-happy-string) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
