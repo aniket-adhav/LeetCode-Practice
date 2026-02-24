@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
