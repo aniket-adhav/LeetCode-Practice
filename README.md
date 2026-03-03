@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
 | ------- |
