@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
