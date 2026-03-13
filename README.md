@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 ## Binary Tree
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
