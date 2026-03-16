@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
 | [1817-finding-the-users-active-minutes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1817-finding-the-users-active-minutes) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1405-longest-happy-string) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1630-arithmetic-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3719-longest-balanced-subarray-i) |
