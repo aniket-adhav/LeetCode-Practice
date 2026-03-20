@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
