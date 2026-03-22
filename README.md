@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0415-add-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
