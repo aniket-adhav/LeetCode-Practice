@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3271-hash-divided-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3271-hash-divided-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -646,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
