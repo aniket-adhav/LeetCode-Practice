@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-walking-robot-simulation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0415-add-strings) |
+| [0874-walking-robot-simulation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
