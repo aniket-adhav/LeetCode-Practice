@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3379-transformed-array) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3719-longest-balanced-subarray-i) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quickselect
 |  |
 | ------- |
