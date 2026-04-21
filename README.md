@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1053-previous-permutation-with-one-swap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0868-binary-gap) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
