@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1630-arithmetic-subarrays](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1630-arithmetic-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Design
 |  |
 | ------- |
@@ -680,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
