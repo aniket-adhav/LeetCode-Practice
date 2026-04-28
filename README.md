@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
