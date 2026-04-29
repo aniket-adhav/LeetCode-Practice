@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3379-transformed-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3640-trionic-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
