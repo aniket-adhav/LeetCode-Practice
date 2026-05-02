@@ -11,11 +11,11 @@ public:
             if(st.find(s[j])!=st.end()){
                 ans=max(ans,j-i);
                 while(i<j){
-                    // if(s[i]==s[j]){
-                    //     st.erase(s[i]);
-                    //     i++;
-                    //     break;
-                    // }
+                    if(s[i]==s[j]){
+                        st.erase(s[i]);
+                        i++;
+                        break;
+                    }
                     st.erase(s[i]);
                     i++;
                 }
