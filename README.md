@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-count-special-triplets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
 | ------- |
