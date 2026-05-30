@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2540-minimum-common-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
@@ -799,4 +802,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
