@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
