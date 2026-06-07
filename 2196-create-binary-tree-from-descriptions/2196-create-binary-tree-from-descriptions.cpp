@@ -27,7 +27,7 @@ public:
             childs.insert(v[1]);
         }
 
-        for(auto &p : mp) {
+        for(auto p : mp) {
             if(!childs.count(p.first))
                 return p.second;
         }
