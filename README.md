@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Design
 |  |
 | ------- |
