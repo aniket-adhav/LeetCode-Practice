@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0693-binary-number-with-alternating-bits) |
