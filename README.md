@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0705-design-hashset) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
