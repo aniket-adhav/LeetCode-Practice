@@ -2,7 +2,6 @@ class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
 
-        // skip one step of slow in middle algo
         ListNode* fast=head;
         ListNode* slow=head;
         ListNode* prev=NULL;
