@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3271-hash-divided-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
