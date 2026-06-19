@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1792-maximum-average-pass-ratio](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1792-maximum-average-pass-ratio) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1829-maximum-xor-for-each-query](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
