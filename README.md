@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
