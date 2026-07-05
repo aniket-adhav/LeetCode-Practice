@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0766-toeplitz-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1301-number-of-paths-with-max-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
