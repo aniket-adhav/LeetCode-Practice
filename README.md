@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3640-trionic-array-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3934-smallest-unique-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
@@ -687,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -783,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Quickselect
 |  |
@@ -860,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
