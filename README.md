@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
+| [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
