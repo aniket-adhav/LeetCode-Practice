@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -763,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -954,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1641-count-sorted-vowel-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Suffix Array
 |  |
@@ -975,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
