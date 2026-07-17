@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0415-add-strings) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
