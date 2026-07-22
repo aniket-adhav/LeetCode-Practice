@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3271-hash-divided-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3271-hash-divided-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
