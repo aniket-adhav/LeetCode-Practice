@@ -1,30 +1,39 @@
 class Solution {
 public:
-    int minimumDeleteSum(string s1, string s2) {
-        int n = s1.size(), m = s2.size();
-        vector<int> dp(m + 1, 0);
+    int helper(string&s1, string&s2, int i, int j, vector<vector<int>>&dp){
+        int cost = 0;
 
-        for (int j = m - 1; j >= 0; j--) {
-            dp[j] = dp[j + 1] + s2[j];
-        }
+        if(dp[i][j]!=-1) return dp[i][j];
 
-        for (int i = n - 1; i >= 0; i--) {
-            int prev = dp[m];
-            dp[m] += s1[i];
+        if(i==s1.size() || j==s2.size()){
 
-            for (int j = m - 1; j >= 0; j--) {
-                int temp = dp[j];
-                if (s1[i] == s2[j]) {
-                    dp[j] = prev;
-                } else {
-                    dp[j] = min(
-                        s1[i] + dp[j],
-                        s2[j] + dp[j + 1]
-                    );
-                }
-                prev = temp;
+           
+
+            for(int x=i; x<s1.size(); x++){
+                cost+=s1[x];
             }
+
+            for(int x=j; x<s2.size(); x++){
+                cost+=s2[x];
+            }
+
         }
-        return dp[0];
+
+        else if(s1[i]==s2[j]){
+            cost = helper(s1, s2, i+1, j+1, dp);
+        }
+        else{
+            int cost1 = s1[i] + helper(s1, s2, i+1, j, dp);
+            int cost2 = s2[j] + helper(s1, s2, i, j+1, dp);
+            cost = min(cost1, cost2);
+        }
+
+        dp[i][j] = cost;
+
+        return dp[i][j];
+    }
+    int minimumDeleteSum(string s1, string s2) {
+        vector<vector<int>>dp(s1.size()+1, vector<int>(s2.size()+1, -1));
+        return helper(s1, s2, 0, 0, dp);
     }
 };
