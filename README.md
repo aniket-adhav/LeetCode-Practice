@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0338-counting-bits) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
