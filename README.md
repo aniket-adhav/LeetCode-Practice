@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
