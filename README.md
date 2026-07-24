@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-walking-robot-simulation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
