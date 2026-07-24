@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0134-gas-station) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0766-toeplitz-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
