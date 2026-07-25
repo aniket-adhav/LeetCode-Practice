@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
