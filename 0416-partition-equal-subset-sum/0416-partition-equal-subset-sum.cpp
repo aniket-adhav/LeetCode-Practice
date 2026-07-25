@@ -1,29 +1,37 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int sum = 0;
-        
-        for (int num : nums) sum += num;
-        if (sum % 2 == 1) return false;
-        sum /= 2;
-        vector<vector<bool>> dp(n, vector<bool>(sum + 1, false));
-
-        for (int i = 0; i < n; i++) dp[i][0] = true;
-
-        if (nums[0] <= sum) dp[0][nums[0]] = true;
-
-        for (int i = 1; i < n; i++) {
-            for (int k = 1; k <= sum; k++) {
-                bool dont = dp[i - 1][k];
-                bool pick = (nums[i] <= k) ? dp[i - 1][k - nums[i]] : false;
-                dp[i][k] = pick || dont;
-            }
+    bool helper(vector<int>&nums, int total, int i, vector<vector<int>>&dp){
+       
+        if(total==0){
+            return true;
         }
 
-        return dp[n - 1][sum];
+        if(i>=nums.size()) return 0;
+
+        if(dp[i][total]!=-1) return dp[i][total];
+
+        bool flag1 = false;
+        if(nums[i]<=total) flag1 = helper(nums, total-nums[i], i+1, dp);
+        bool flag2 = helper(nums, total, i+1, dp);
+
+        dp[i][total] = flag1 || flag2;
+
+        return dp[i][total];
+
+
+
+    }
+    bool canPartition(vector<int>& nums) {
+       int total = 0;
+
+       for(int i=0; i<nums.size(); i++){
+            total+=nums[i];
+       }
+
+       if(total%2!=0) return false;
+
+       vector<vector<int>>dp(nums.size()+1, vector<int>(total/2+1, -1));
+
+       return helper(nums, total/2, 0, dp);
     }
 };
