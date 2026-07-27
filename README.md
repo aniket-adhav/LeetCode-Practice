@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
