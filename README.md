@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
