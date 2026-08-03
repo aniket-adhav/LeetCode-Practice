@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1641-count-sorted-vowel-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1641-count-sorted-vowel-strings) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
 | ------- |
