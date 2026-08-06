@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0337-house-robber-iii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1086,4 +1089,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
