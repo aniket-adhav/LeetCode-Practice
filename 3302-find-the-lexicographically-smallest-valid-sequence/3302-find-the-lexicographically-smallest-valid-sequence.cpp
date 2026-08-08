@@ -7,12 +7,12 @@ public:
         int n = s1.size();
         int m = s2.size();
 
-        // Suffix helper array
+        
         int j = m - 1;
 
         vector<int> suffix(n + 1, m);
 
-        // Build suffix matches
+       
         for (int i = n - 1; i >= 0; i--) {
 
             suffix[i] = suffix[i + 1];
@@ -25,8 +25,6 @@ public:
             }
         }
 
-        // Find where mismatch
-        // can safely be used
         j = 0;
 
         int mismatch = -1;
@@ -47,7 +45,6 @@ public:
             }
         }
 
-        // Build answer greedily
         vector<int> ans;
 
         j = 0;
