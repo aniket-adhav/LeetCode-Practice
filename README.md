@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
