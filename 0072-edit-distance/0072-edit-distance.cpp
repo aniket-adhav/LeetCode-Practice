@@ -13,23 +13,21 @@ public:
         }
 
 
-
+        int ans = 0;
         //logic
         if(word1[i]==word2[j]){
-            return recursion(i+1,j+1,word1,word2,dp);
+            ans =  recursion(i+1,j+1,word1,word2,dp);
         }else{
             int insert=1+recursion(i,j+1,word1,word2,dp);
             int delet=1+recursion(i+1,j,word1,word2,dp);
             int replace=1+recursion(i+1,j+1,word1,word2,dp);
-            return dp[i][j]=min(insert,min(delet,replace));
 
+            ans = min(insert, min(delet, replace));
         }
-        
 
+        dp[i][j]=ans;
 
-
-
-        //return 
+        return dp[i][j];
        
     }
     int minDistance(string word1, string word2) {
