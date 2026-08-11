@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
+| [1092-shortest-common-supersequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1025-divisor-game) |
+| [1092-shortest-common-supersequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -1139,4 +1141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
