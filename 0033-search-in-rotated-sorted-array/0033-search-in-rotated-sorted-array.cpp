@@ -11,7 +11,7 @@ public:
 
       
         if (arr[low] <= arr[mid]) {
-            if (arr[low] <= k && k <= arr[mid]) {
+            if (arr[low] <= k && k < arr[mid]) {
                
                 high = mid - 1;
             }
@@ -21,7 +21,7 @@ public:
             }
         }
         else { 
-            if (arr[mid] <= k && k <= arr[high]) {
+            if (arr[mid] < k && k <= arr[high]) {
                 
                 low = mid + 1;
             }
