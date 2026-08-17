@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1641-count-sorted-vowel-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1642-water-bottles) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1590-make-sum-divisible-by-p](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1641-count-sorted-vowel-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1641-count-sorted-vowel-strings) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
 | ------- |
