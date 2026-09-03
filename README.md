@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Geometry
 |  |
