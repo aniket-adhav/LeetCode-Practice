@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3713-longest-balanced-substring-i) |
