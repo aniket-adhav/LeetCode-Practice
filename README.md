@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1630-arithmetic-subarrays](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1630-arithmetic-subarrays) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -906,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
