@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0890-find-and-replace-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1048-longest-string-chain](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1053-previous-permutation-with-one-swap](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1053-previous-permutation-with-one-swap) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
