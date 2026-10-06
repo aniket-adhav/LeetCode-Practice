@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0279-perfect-squares) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
@@ -1062,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1178,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
