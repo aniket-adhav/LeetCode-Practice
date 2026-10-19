@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1262,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Minimax
 |  |
 | ------- |
