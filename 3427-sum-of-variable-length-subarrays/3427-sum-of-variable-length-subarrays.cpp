@@ -1,7 +1,8 @@
 class Solution {
 public:
+
     int subarraySum(vector<int>& nums) {
-        int n = nums.size();
+        int n=nums.size();
         int sum=0;
 
         for(int i=0; i<n; i++){
@@ -10,6 +11,8 @@ public:
                 sum += nums[j];
             }
         }
+        
         return sum;
     }
+
 };
