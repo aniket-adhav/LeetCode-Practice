@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3934-smallest-unique-subarray) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Geometry
 |  |
 | ------- |
