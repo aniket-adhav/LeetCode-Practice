@@ -28,7 +28,7 @@ public:
 
     //     int inc = 0;
     //     if(prev == -1 || arr[curr] > arr[prev] ){
-    //         inc = 1 + solveUsingMem(arr,curr+1, curr, dp);
+    //         inc = 1 + solveUsingMem(arr, curr+1, curr, dp);
     //     }
     //     int exc = 0 + solveUsingMem(arr, curr+1, prev, dp);
     //     dp[curr][prev+1] = max(inc,exc);
