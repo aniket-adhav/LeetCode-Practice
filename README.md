@@ -1313,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Bracket Sequences
 |  |
