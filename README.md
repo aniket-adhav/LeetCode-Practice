@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3531-count-covered-buildings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -989,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/3634-minimum-removals-to-balance-array) |
