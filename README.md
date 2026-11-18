@@ -1336,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/aniket-adhav/LeetCode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
